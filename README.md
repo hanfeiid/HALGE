@@ -1,7 +1,7 @@
 # HALGE
 Experiment for Holism-And-Landmark Graph Embedding (HALGE)
 
-Due to file size limitations of github, we will upload our data used in the experiments in the other place shortly.
+\TODO Due to file size limitations of github, we will upload our data used in the experiments in the other place shortly.
 
 If you use our method and/or codes, please cite our paper
 ```
